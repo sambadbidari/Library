@@ -1,0 +1,249 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml:2:1-29:12
+MERGED from [info.androidhive:barcode-reader:1.1.2] /home/sambad/.gradle/caches/transforms-1/files-1.1/barcode-reader-1.1.2.aar/017da9cecc0ce0dee84ce19924846751/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.volley:volley:1.0.0] /home/sambad/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/daba71df1a5cdb2ecd4712db8f303d54/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/design-26.0.0-beta2.aar/24320f4e8aadae9bc9ff3e1102ce74e1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta2.aar/d007ad20beb4ee39d06ef0b481ed6616/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/sambad/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/cf43c12fa6d61bcaa3f0fb95c1bfb861/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-vision:11.0.2] /home/sambad/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.0.2.aar/9e869a43859c756c13d833b956b42c6d/AndroidManifest.xml:2:1-5:12
+MERGED from [com.android.support:transition:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-beta2.aar/461c75a1912a99d3ea5db796a863c60e/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.2] /home/sambad/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.0.2.aar/1a5da604b82207eab2f7ddcbaf9f3886/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-base:11.0.2] /home/sambad/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/06628b7cbe1a3ff36a3fdbe4d243ed80/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] /home/sambad/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.2.aar/1174be044e3f863cc3a2f578732673a3/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] /home/sambad/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.2.aar/90d41754e77bcebba0b4b593503f799e/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta2.aar/45c6d4deefe1d9ffc49b032ef6f73aff/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-beta2.aar/aeab6d3f9a9467b8adb112e25a90a7e1/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta2.aar/a30d2413c4b74a0ef120b6c0dfa64159/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta2.aar/e9903a13f06f7ea45ea1d4cdc99ff194/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta2.aar/99dcfe3f99713058bebcaf0c400d5958/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta2.aar/7af1fb4fcd0f47b4f038d87b9d9d82f6/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta2.aar/e518af8b5e75f16e5ece75a899e984f6/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta2.aar/7874039efad8e0b235ff5edf349b32dc/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta2.aar/53cb3e42be29f26923131d9078a3ad46/AndroidManifest.xml:17:1-31:12
+INJECTED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml
+		ADDED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml
+		ADDED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml:4:5-65
+MERGED from [info.androidhive:barcode-reader:1.1.2] /home/sambad/.gradle/caches/transforms-1/files-1.1/barcode-reader-1.1.2.aar/017da9cecc0ce0dee84ce19924846751/AndroidManifest.xml:11:5-65
+MERGED from [info.androidhive:barcode-reader:1.1.2] /home/sambad/.gradle/caches/transforms-1/files-1.1/barcode-reader-1.1.2.aar/017da9cecc0ce0dee84ce19924846751/AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml:4:22-62
+uses-permission#android.permission.INTERNET
+ADDED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml:6:5-27:19
+MERGED from [com.android.volley:volley:1.0.0] /home/sambad/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/daba71df1a5cdb2ecd4712db8f303d54/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] /home/sambad/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/daba71df1a5cdb2ecd4712db8f303d54/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/design-26.0.0-beta2.aar/24320f4e8aadae9bc9ff3e1102ce74e1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/design-26.0.0-beta2.aar/24320f4e8aadae9bc9ff3e1102ce74e1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta2.aar/d007ad20beb4ee39d06ef0b481ed6616/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta2.aar/d007ad20beb4ee39d06ef0b481ed6616/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/sambad/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/cf43c12fa6d61bcaa3f0fb95c1bfb861/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/sambad/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/cf43c12fa6d61bcaa3f0fb95c1bfb861/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-vision:11.0.2] /home/sambad/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.0.2.aar/9e869a43859c756c13d833b956b42c6d/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision:11.0.2] /home/sambad/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.0.2.aar/9e869a43859c756c13d833b956b42c6d/AndroidManifest.xml:4:5-19
+MERGED from [com.android.support:transition:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-beta2.aar/461c75a1912a99d3ea5db796a863c60e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-beta2.aar/461c75a1912a99d3ea5db796a863c60e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.2] /home/sambad/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.0.2.aar/1a5da604b82207eab2f7ddcbaf9f3886/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.2] /home/sambad/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.0.2.aar/1a5da604b82207eab2f7ddcbaf9f3886/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.2] /home/sambad/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/06628b7cbe1a3ff36a3fdbe4d243ed80/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.0.2] /home/sambad/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/06628b7cbe1a3ff36a3fdbe4d243ed80/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] /home/sambad/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.2.aar/1174be044e3f863cc3a2f578732673a3/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] /home/sambad/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.2.aar/1174be044e3f863cc3a2f578732673a3/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] /home/sambad/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.2.aar/90d41754e77bcebba0b4b593503f799e/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] /home/sambad/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.2.aar/90d41754e77bcebba0b4b593503f799e/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta2.aar/45c6d4deefe1d9ffc49b032ef6f73aff/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta2.aar/45c6d4deefe1d9ffc49b032ef6f73aff/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-beta2.aar/aeab6d3f9a9467b8adb112e25a90a7e1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-beta2.aar/aeab6d3f9a9467b8adb112e25a90a7e1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta2.aar/a30d2413c4b74a0ef120b6c0dfa64159/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta2.aar/a30d2413c4b74a0ef120b6c0dfa64159/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-fragment:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta2.aar/e9903a13f06f7ea45ea1d4cdc99ff194/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta2.aar/e9903a13f06f7ea45ea1d4cdc99ff194/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta2.aar/99dcfe3f99713058bebcaf0c400d5958/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta2.aar/99dcfe3f99713058bebcaf0c400d5958/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta2.aar/7af1fb4fcd0f47b4f038d87b9d9d82f6/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta2.aar/7af1fb4fcd0f47b4f038d87b9d9d82f6/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta2.aar/e518af8b5e75f16e5ece75a899e984f6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta2.aar/e518af8b5e75f16e5ece75a899e984f6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta2.aar/7874039efad8e0b235ff5edf349b32dc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta2.aar/7874039efad8e0b235ff5edf349b32dc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta2.aar/53cb3e42be29f26923131d9078a3ad46/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta2.aar/53cb3e42be29f26923131d9078a3ad46/AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml:12:9-40
+activity#com.loopwiki.library.First_Activity
+ADDED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml:13:19-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml:17:27-74
+activity#com.loopwiki.library.LoginActivity
+ADDED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml:20:9-51
+	android:name
+		ADDED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml:20:19-48
+activity#com.loopwiki.library.admin.Admin_Main
+ADDED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml:21:9-54
+	android:name
+		ADDED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml:21:19-51
+activity#com.loopwiki.library.users.Users_Main
+ADDED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml:22:9-54
+	android:name
+		ADDED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml:22:19-51
+activity#com.loopwiki.library.admin.ScanActivity
+ADDED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml:23:9-56
+	android:name
+		ADDED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml:23:19-53
+activity#com.loopwiki.library.admin.BookResultViewActivity
+ADDED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml:24:9-66
+	android:name
+		ADDED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml:24:19-63
+activity#com.loopwiki.library.admin.BookInventoryViewActivity
+ADDED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml:25:9-69
+	android:name
+		ADDED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml:25:19-66
+activity#com.loopwiki.library.admin.StudentActivity
+ADDED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml:26:9-59
+	android:name
+		ADDED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml:26:19-56
+uses-sdk
+INJECTED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml
+INJECTED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml
+MERGED from [info.androidhive:barcode-reader:1.1.2] /home/sambad/.gradle/caches/transforms-1/files-1.1/barcode-reader-1.1.2.aar/017da9cecc0ce0dee84ce19924846751/AndroidManifest.xml:7:5-9:41
+MERGED from [info.androidhive:barcode-reader:1.1.2] /home/sambad/.gradle/caches/transforms-1/files-1.1/barcode-reader-1.1.2.aar/017da9cecc0ce0dee84ce19924846751/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.volley:volley:1.0.0] /home/sambad/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/daba71df1a5cdb2ecd4712db8f303d54/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.0.0] /home/sambad/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/daba71df1a5cdb2ecd4712db8f303d54/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:design:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/design-26.0.0-beta2.aar/24320f4e8aadae9bc9ff3e1102ce74e1/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/design-26.0.0-beta2.aar/24320f4e8aadae9bc9ff3e1102ce74e1/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta2.aar/d007ad20beb4ee39d06ef0b481ed6616/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta2.aar/d007ad20beb4ee39d06ef0b481ed6616/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/sambad/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/cf43c12fa6d61bcaa3f0fb95c1bfb861/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/sambad/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/cf43c12fa6d61bcaa3f0fb95c1bfb861/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-vision:11.0.2] /home/sambad/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.0.2.aar/9e869a43859c756c13d833b956b42c6d/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision:11.0.2] /home/sambad/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.0.2.aar/9e869a43859c756c13d833b956b42c6d/AndroidManifest.xml:3:5-43
+MERGED from [com.android.support:transition:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-beta2.aar/461c75a1912a99d3ea5db796a863c60e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-beta2.aar/461c75a1912a99d3ea5db796a863c60e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.2] /home/sambad/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.0.2.aar/1a5da604b82207eab2f7ddcbaf9f3886/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.2] /home/sambad/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.0.2.aar/1a5da604b82207eab2f7ddcbaf9f3886/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.2] /home/sambad/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/06628b7cbe1a3ff36a3fdbe4d243ed80/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.2] /home/sambad/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/06628b7cbe1a3ff36a3fdbe4d243ed80/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] /home/sambad/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.2.aar/1174be044e3f863cc3a2f578732673a3/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] /home/sambad/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.2.aar/1174be044e3f863cc3a2f578732673a3/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] /home/sambad/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.2.aar/90d41754e77bcebba0b4b593503f799e/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] /home/sambad/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.2.aar/90d41754e77bcebba0b4b593503f799e/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta2.aar/45c6d4deefe1d9ffc49b032ef6f73aff/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta2.aar/45c6d4deefe1d9ffc49b032ef6f73aff/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:recyclerview-v7:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-beta2.aar/aeab6d3f9a9467b8adb112e25a90a7e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-beta2.aar/aeab6d3f9a9467b8adb112e25a90a7e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta2.aar/a30d2413c4b74a0ef120b6c0dfa64159/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta2.aar/a30d2413c4b74a0ef120b6c0dfa64159/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta2.aar/e9903a13f06f7ea45ea1d4cdc99ff194/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta2.aar/e9903a13f06f7ea45ea1d4cdc99ff194/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta2.aar/99dcfe3f99713058bebcaf0c400d5958/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta2.aar/99dcfe3f99713058bebcaf0c400d5958/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta2.aar/7af1fb4fcd0f47b4f038d87b9d9d82f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta2.aar/7af1fb4fcd0f47b4f038d87b9d9d82f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta2.aar/e518af8b5e75f16e5ece75a899e984f6/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta2.aar/e518af8b5e75f16e5ece75a899e984f6/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta2.aar/7874039efad8e0b235ff5edf349b32dc/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta2.aar/7874039efad8e0b235ff5edf349b32dc/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta2.aar/53cb3e42be29f26923131d9078a3ad46/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta2.aar/53cb3e42be29f26923131d9078a3ad46/AndroidManifest.xml:21:5-23:58
+INJECTED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml
+INJECTED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/design-26.0.0-beta2.aar/24320f4e8aadae9bc9ff3e1102ce74e1/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml
+		ADDED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml
+		ADDED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from [info.androidhive:barcode-reader:1.1.2] /home/sambad/.gradle/caches/transforms-1/files-1.1/barcode-reader-1.1.2.aar/017da9cecc0ce0dee84ce19924846751/AndroidManifest.xml:13:5-60
+	android:name
+		ADDED from [info.androidhive:barcode-reader:1.1.2] /home/sambad/.gradle/caches/transforms-1/files-1.1/barcode-reader-1.1.2.aar/017da9cecc0ce0dee84ce19924846751/AndroidManifest.xml:13:19-57
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/design-26.0.0-beta2.aar/24320f4e8aadae9bc9ff3e1102ce74e1/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta2.aar/d007ad20beb4ee39d06ef0b481ed6616/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta2.aar/d007ad20beb4ee39d06ef0b481ed6616/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:transition:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-beta2.aar/461c75a1912a99d3ea5db796a863c60e/AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:transition:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-beta2.aar/461c75a1912a99d3ea5db796a863c60e/AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:support-v4:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta2.aar/45c6d4deefe1d9ffc49b032ef6f73aff/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-v4:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta2.aar/45c6d4deefe1d9ffc49b032ef6f73aff/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-beta2.aar/aeab6d3f9a9467b8adb112e25a90a7e1/AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-beta2.aar/aeab6d3f9a9467b8adb112e25a90a7e1/AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta2.aar/a30d2413c4b74a0ef120b6c0dfa64159/AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta2.aar/a30d2413c4b74a0ef120b6c0dfa64159/AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:support-fragment:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta2.aar/e9903a13f06f7ea45ea1d4cdc99ff194/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-fragment:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta2.aar/e9903a13f06f7ea45ea1d4cdc99ff194/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-core-ui:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta2.aar/99dcfe3f99713058bebcaf0c400d5958/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-core-ui:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta2.aar/99dcfe3f99713058bebcaf0c400d5958/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta2.aar/7af1fb4fcd0f47b4f038d87b9d9d82f6/AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta2.aar/7af1fb4fcd0f47b4f038d87b9d9d82f6/AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:support-media-compat:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta2.aar/e518af8b5e75f16e5ece75a899e984f6/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-media-compat:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta2.aar/e518af8b5e75f16e5ece75a899e984f6/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-core-utils:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta2.aar/7874039efad8e0b235ff5edf349b32dc/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-core-utils:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta2.aar/7874039efad8e0b235ff5edf349b32dc/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-compat:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta2.aar/53cb3e42be29f26923131d9078a3ad46/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-compat:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta2.aar/53cb3e42be29f26923131d9078a3ad46/AndroidManifest.xml:26:9-28:44
+	android:value
+		ADDED from [com.android.support:design:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/design-26.0.0-beta2.aar/24320f4e8aadae9bc9ff3e1102ce74e1/AndroidManifest.xml:28:13-41
+	android:name
+		ADDED from [com.android.support:design:26.0.0-beta2] /home/sambad/.gradle/caches/transforms-1/files-1.1/design-26.0.0-beta2.aar/24320f4e8aadae9bc9ff3e1102ce74e1/AndroidManifest.xml:27:13-51
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.2] /home/sambad/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/06628b7cbe1a3ff36a3fdbe4d243ed80/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] /home/sambad/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/06628b7cbe1a3ff36a3fdbe4d243ed80/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] /home/sambad/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/06628b7cbe1a3ff36a3fdbe4d243ed80/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] /home/sambad/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/06628b7cbe1a3ff36a3fdbe4d243ed80/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.2] /home/sambad/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.2.aar/90d41754e77bcebba0b4b593503f799e/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.2] /home/sambad/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.2.aar/90d41754e77bcebba0b4b593503f799e/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.2] /home/sambad/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.2.aar/90d41754e77bcebba0b4b593503f799e/AndroidManifest.xml:20:20-65

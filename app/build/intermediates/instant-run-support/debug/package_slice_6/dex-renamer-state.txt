@@ -1,0 +1,4 @@
+#Sat Feb 17 11:37:21 NPT 2018
+base.0=/home/sambad/AndroidStudioProjects/Library/app/build/intermediates/transforms/dexMerger/debug/7
+path.0=classes.dex
+renamed.0=classes.dex
