@@ -96,9 +96,9 @@ MERGED from [com.android.support:support-compat:26.0.0-beta2] /home/sambad/.grad
 	android:label
 		ADDED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml:9:9-41
 	android:roundIcon
-		ADDED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml:10:9-54
+		ADDED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml:10:9-56
 	android:icon
-		ADDED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml:8:9-43
+		ADDED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml:8:9-45
 	android:allowBackup
 		ADDED from /home/sambad/AndroidStudioProjects/Library/app/src/main/AndroidManifest.xml:7:9-35
 	android:theme

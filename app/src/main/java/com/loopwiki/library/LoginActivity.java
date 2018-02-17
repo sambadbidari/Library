@@ -4,7 +4,6 @@ package com.loopwiki.library;
  * Created by sambad on 2/15/18
  */
 
-import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -22,7 +21,6 @@ import info.androidhive.barcode.BarcodeReader;
 
 
 public class LoginActivity extends AppCompatActivity implements BarcodeReader.BarcodeReaderListener{
-    Context mContext;
     SqliteHelper sqliteHelper;
     BarcodeReader mBarcodeReader;
 
